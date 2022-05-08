@@ -60,7 +60,7 @@ To run the ablation, go to the file SafeDrug.py and change the value of i to 0 f
 
 ## Results
 
-| Results by | DDI Rate | Jaccard Similarity | F1 Score | Training Time |
+| SafeDrug Results by | DDI Rate | Jaccard Similarity | F1 Score | Training Time |
 |---|---|---|---|---|
 | Authors | 0.0589 | 0.5213 | 0.6768 | 138.77s |
 | Average Epoch | 0.06084 | 0.51239 | 0.66891 | 337.67s |
