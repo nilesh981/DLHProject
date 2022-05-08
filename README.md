@@ -55,7 +55,7 @@ We have tested the following models:
 -SAFEDRUG
 
 We have also run 2 ablations - Feature Ablation by excluding Prescriptions and Layer ablation by removing one MPNN encoder.
-To run the ablation, go to the code and change the value of i to 0 for feature ablation and 1 for Layer ablation.
+To run the ablation, go to the file SafeDrug.py and change the value of i to 0 for feature ablation and 1 for Layer ablation.
 
 
 ## Results
