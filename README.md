@@ -46,6 +46,17 @@ Then run - ``` python processing.py ```
 
 The model goes through training and eval in the same instance. To run the code, we need to call ```python SafeDrug --model_name MODEL_NAME``` or run the model directly using ```python MODEL_NAME.py```
 
+We have tested the following models:
+-DMNC
+-RETAIN
+-GAMENet
+-LEAP
+-SAFEDRUG
+
+We have also run 2 ablations - Feature Ablation by excluding Prescriptions and Layer ablation by removing one MPNN encoder.
+To run the ablation, go to the code and change the value of i to 0 for feature ablation and 1 for Layer ablation.
+
+
 ## Results
 
 | Results by | DDI Rate | Jaccard Similarity | F1 Score | Training Time |
