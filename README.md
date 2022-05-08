@@ -1,8 +1,8 @@
 # Deep Learning for Healthcare Final Project
-**Group ID:** 162
-**Paper ID:** 208
-**Paper Name:** SafeDrug: Dual Molecular Graph Encoders for Safe Drug Recommendations
-**Difficulty:** Hard
+**Group ID:** 162\
+**Paper ID:** 208\
+**Paper Name:** SafeDrug: Dual Molecular Graph Encoders for Safe Drug Recommendations\
+**Difficulty:** Hard\
 
 ## Team Members
 
@@ -10,9 +10,9 @@
  - Surya Sindhu Mallimanugula (ssm13)
  
  ## Citation
- Yang, Chaoqi & Xiao, Cao & Ma, Fenglong & Glass, Lucas & Sun, J.. (2021). SafeDrug: Dual Molecular Graph Encoders for Safe Drug Recommendations: n. pag.
- **Paper Link:** [[2105.02711] SafeDrug: Dual Molecular Graph Encoders for Safe Drug Recommendations (arxiv.org)](https://arxiv.org/abs/2105.02711)
- **Paper Repo:** https://github.com/ycq091044/SafeDrug 
+ Yang, Chaoqi & Xiao, Cao & Ma, Fenglong & Glass, Lucas & Sun, J.. (2021). SafeDrug: Dual Molecular Graph Encoders for Safe Drug Recommendations: n. pag.\
+ **Paper Link:** [[2105.02711] SafeDrug: Dual Molecular Graph Encoders for Safe Drug Recommendations (arxiv.org)](https://arxiv.org/abs/2105.02711)\
+ **Paper Repo:** https://github.com/ycq091044/SafeDrug \
 
 ## Dependencies 
 
@@ -30,13 +30,13 @@
  
  ## Data Download Instructions
  
- 1. **MIMIC-III Data** - Go to https://physionet.org/content/mimiciii/1.4/ and download PROCEDURES_ICD.csv.gz, PRESCRIPTIONS.csv.gz, and DIAGNOSES_ICD.csv.gz.
- 2. **RXCUI2atc4.csv** - https://github.com/sjy1203/GAMENet
- 3. **drug-atc.csv** - https://github.com/sjy1203/GAMENet
- 4. **rxnorm2RXCUI.txt** - https://github.com/sjy1203/GAMENet
- 5. **drugbank_drugs_info.csv** - https://www.dropbox.com/s/angoirabxurjljh/drugbank_drugs_info.csv?dl=0
- 6. **drug-DDI.csv** - https://drive.google.com/file/d/1mnPc0O0ztz0fkv3HF-dpmBb8PLWsEoDz/view?usp=sharing
-
+ 1. **MIMIC-III Data** - Go to https://physionet.org/content/mimiciii/1.4/ and download PROCEDURES_ICD.csv.gz, PRESCRIPTIONS.csv.gz, and DIAGNOSES_ICD.csv.gz. \
+ 2. **RXCUI2atc4.csv** - https://github.com/sjy1203/GAMENet \
+ 3. **drug-atc.csv** - https://github.com/sjy1203/GAMENet \
+ 4. **rxnorm2RXCUI.txt** - https://github.com/sjy1203/GAMENet \
+ 5. **drugbank_drugs_info.csv** - https://www.dropbox.com/s/angoirabxurjljh/drugbank_drugs_info.csv?dl=0 \
+ 6. **drug-DDI.csv** - https://drive.google.com/file/d/1mnPc0O0ztz0fkv3HF-dpmBb8PLWsEoDz/view?usp=sharing \
+ 
 ## Preprocessing Code
 
 For the data preprocessing, download the MIMIC-III data and link the files in the directory to the code.
