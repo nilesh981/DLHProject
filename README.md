@@ -3,7 +3,8 @@
 **Paper ID:** 208 <br/>
 **Paper Name:** SafeDrug: Dual Molecular Graph Encoders for Safe Drug Recommendations <br/>
 **Difficulty:** Hard <br/>
-**Presentation Link:** 
+**Presentation Link:** https://youtu.be/KBpV2IkXUpU
+**Powerpoint Link:** https://1drv.ms/p/s!AgaPuqhNAiJG2yiZ2JfAfYtvwmsG?e=10gdtS
 
 ## Team Members
 
