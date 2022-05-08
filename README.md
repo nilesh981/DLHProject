@@ -41,6 +41,7 @@
 
 For the data preprocessing, download the MIMIC-III data and link the files in the directory to the code.
 Then run - ``` python processing.py ```
+We are not uploading data folder in Github due to data security and privacy concerns.
 
 ##  Model
 
